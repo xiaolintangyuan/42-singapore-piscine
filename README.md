@@ -6,6 +6,48 @@
 This repository contains the solutions to my assignments while doing the Piscine to join 42 Singapore in 2024.
 All solution files are MIT licensed (See LICENSE); use them at your own risk. My commentary for each exercises can be found below.
 
+## Thoughts & Takeaways from this Piscine
+I am glad to make new friends with like minded individuals who have a passion for coding. I also had the opportunity to discover 3 types of people in this piscine. The first type (PURISTS) are adamant that coding should be left to the genetically superior "talents". They frown at those who seek help from others, use generative AI resources or copy codes online from Github. When they evaluate others, they don't hesitate to mark the weaker ones as cheating since they are "humain supérieur". The second type (SANGSUES) believe that coding is a utility. They maximise this utility by taking full advantage of all resources (people, AI, Github) to arrive at the final solution. **They won't hesistate to ask you for help but when it comes to you asking for help from them, suddenly you are like a vermin to them.** Finally, the third type (RESILIENTE) are the ones who treat coding as a skillset. They learn coding through resources & fellow mates and improve on their craft by constant practice and genuinely learning the art of coding. They are resilient; not giving up even after retrying multiple times, burning their weekends to study the fundamentals. So which type of person will ***you*** be?
+
+## Best moments from Piscine
+Sharing the best (cringe) moments from the Piscine. To hide the identities of various jokers, I will just call these bunch of people ***Jokers***.
+
+### Vote for me!!  
+*Staff*: "Please vote for your 10 favourite pisciners..."  
+***Joker 1***: "Please vote for me and my girlfriend so we can get to core!!!"  
+
+### Code Quality
+***Joker 1***: "Eh *xiaolintangyuan*, I'm stuck with CXX questions for very long. Since you already score 100 for CXX, can you just send me the code?"  
+*Me*: "ok ok, here you go..." *zipped my codes and send them to him*  
+
+*Moments later...*  
+***Joker 1***: "Eh [*insert another expert*] found bugs in your code. You should have fixed them before sending me."  
+*Me*: "But it already pass Moulinette?! Then what you want me to do?!?!"
+***
+### Double Standards 
+*One night during my evaluation...*  
+***Joker 2***: "Can you explain this code to me?"  
+*Me*: "I can't remember it off the top of my head now, too tired already..."  
+***Joker 2***: "I have to mark this as wrong then since you cannot explain..."  
+*Me*: "ok ok..."  
+
+*During ***Joker 2***'s evaluation...*  
+*Friend*: "Can you explain this code to me?"  
+***Joker 2***: "This concept very hard to explain to you like this.." Proceeds to open chrome, enter keyword  
+***Joker 2***: "You read the website can already..."  
+*Me*: "WTF!"  
+***
+### Excuse Me
+
+*First day of Piscine...*
+
+***Joker 3*** (in a very unsincere rough tone): "Excuse me!!! Excuse me!!!"
+*Me*: "Yes?"  
+***Joker 3***: "How do we start bash? What is bash? Can you tell me? Aren't you supposed to know?"  
+*Me*: "But I'm also a fellow student..."  
+***Joker 3***: "Why you don't know? Can you find someone who knows?"  
+*Me*: "WTF!"
+***
 ## Assignments
 ### SH00 / SH01 - Day 1
 The solutions to these assignments are not provided as they have to be performed directly via commands on the console. Please seek help from your peers to complete these exercises while getting to know new friends. Remember that only mutually beneficial cooperation will create lasting friendships. Single-sided leeching will only result in negative public opinion on the leecher.
