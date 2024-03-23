@@ -41,7 +41,7 @@ Sharing the best (cringe) moments from the Piscine. To hide the identities of va
 
 *First day of Piscine...*
 
-***Joker 3*** (in a very unsincere rough tone): "Excuse me!!! Excuse me!!!"
+***Joker 3*** (in a very unsincere rough tone): "Excuse me!!! Excuse me!!!"  
 *Me*: "Yes?"  
 ***Joker 3***: "How do we start bash? What is bash? Can you tell me? Aren't you supposed to know?"  
 *Me*: "But I'm also a fellow student..."  
