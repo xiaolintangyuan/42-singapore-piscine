@@ -6,7 +6,7 @@
 All files in the solutions folder are MIT licensed (See LICENSE); use them at your own risk.
 
 ## Best moments
-Sharing the best (cringe) moments from the Piscine. To hide the identities of various jokers, I will just call these bunch of people ***Jokers***.
+Sharing the best (cringe) moments from the Pool. To hide the identities of various jokers, I will just call these bunch of people ***Jokers***.
 
 ### Vote for me!!  
 *Staff*: "Please vote for your 10 favourite pisciners..."  
@@ -35,7 +35,7 @@ Sharing the best (cringe) moments from the Piscine. To hide the identities of va
 ***
 ### Excuse Me
 
-*First day of Piscine...*
+*First day of Pool...*
 
 ***Joker 3*** (in a very unsincere rough tone): "Excuse me!!! Excuse me!!!"  
 *Me*: "Yes?"  
