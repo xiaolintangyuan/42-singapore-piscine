@@ -9,11 +9,11 @@ All files in the solutions folder are MIT licensed (See LICENSE); use them at yo
 Sharing the best (cringe) moments from the Pool. To hide the identities of various jokers, I will just call these bunch of people ***Jokers***.
 
 ### Vote for me!!  
-*Staff*: "Please vote for your 10 favourite pisciners..."  
+*Staff*: "Please vote for your 10 favourite peers..."  
 ***Joker 1***: "Please vote for me and my girlfriend so we can get to core!!!"  
 
 ### Code Quality
-***Joker 1***: "Eh *xiaolintangyuan*, I'm stuck with CXX questions for very long. Since you already score 100 for CXX, can you just send me the code?"  
+***Joker 1***: "Eh *xiaolintangyuan*, I'm stuck with XX questions for very long. Since you already score 100 for XX, can you just send me the code?"  
 *Me*: "ok ok, here you go..." *zipped my codes and send them to him*  
 
 *Moments later...*  
